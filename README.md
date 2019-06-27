@@ -1,6 +1,8 @@
 # MIDS_w207_final_project
 Final Project for MIDS W207 Applied Machine Learning
 
+# Machine Learning on Housing Price Prediction 
+
 Semester: Fall 2018
 
 Team Members: Roland Lim, Mark Yong, Martin Jung, Kuangwei Huang
